@@ -1,4 +1,4 @@
 <Response>
-    <Say voice="alice" language="pt-BR">Este é um exemplo de alerta em português. Por favor, ajuste conforme necessário.</Say>
+    <Say voice="Polly.Joanna" language="pt-BR">Houston, nós temos um problema.</Say>
     <Play>http://demo.twilio.com/docs/classic.mp3</Play>
 </Response>
