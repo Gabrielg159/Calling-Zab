@@ -1,4 +1,4 @@
 <Response>
-    <Say voice="Polly.Thiago-Neural" language="pt-BR">Houston, nós temos um problema.</Say>
+    <Say voice="Google.pt-BR-Standard-B" language="pt-BR">Houston, nós temos um problema.</Say>
     <Play>https://api.twilio.com/cowbell.mp3</Play>
 </Response>
