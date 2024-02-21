@@ -1,3 +1,3 @@
 <Response>
-    <Say voice="Google.pt-BR-Standard-B" language="pt-BR">Houston, we have a problem.</Say>
+    <Say>Houston, we have a problem.</Say>
 </Response>
