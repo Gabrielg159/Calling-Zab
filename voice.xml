@@ -1,3 +1,3 @@
 <Response>
-    <Say>Nós temos um problema, por favor, verifique o Zabbix ou Telegram.</Say>
+    <Say voice="Polly.Thiago-Neural" language="pt-BR">Nós temos um problema, por favor, verifique o Zabbix ou Telegram.</Say>
 </Response>
