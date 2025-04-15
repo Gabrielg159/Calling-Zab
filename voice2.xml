@@ -1,4 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="Polly.Thiago-Neural" language="pt-BR">Houston, nós temos um problema.</Say>
-    <Play>https://api.twilio.com/cowbell.mp3</Play>
+  <Say voice="alice" language="pt-BR">
+    Atenção! Um alarme crítico foi detectado. Nome do problema: {PROBLEM_NAME}. Host: {HOST.NAME}. Gravidade: {TRIGGER.SEVERITY}.
+  </Say>
 </Response>
